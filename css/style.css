@@ -6,3 +6,14 @@
 .top-100 {
   margin-top: 100px;
 }
+
+/* Body Styling */
+.image-properties {
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  height: 95vh;
+}
+
+.iphone-pro-wrapper {
+  background-image: url(../images/home/iphone11-pro-bg.jpg);
+}
