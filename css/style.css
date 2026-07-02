@@ -6,3 +6,41 @@
 .top-100 {
   margin-top: 100px;
 }
+/* Header Style */
+.nav-wrapper {
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 0.85em;
+  font-weight: 200;
+}
+.nav-wrapper ul li a {
+  color: #fff;
+}
+.navbar-toggler {
+  color: #fff;
+}
+.nav-item {
+  text-align: left !important;
+  padding: 4px 0;
+  border-bottom: 1px solid #4b4b4b;
+}
+.tv-wrapper{
+  background-image: url(../images/home/apple-tv-background.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* height: 500px;
+  min-height: 560px; */
+  
+}
+.airpod-wrapper{
+  background-image: url(../images/home/air-pods.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: auto;
+  /* height: 500px;
+  min-height: 560px; */
+  background-color: black;
+  color: white;
+}
